@@ -1,6 +1,6 @@
 # EMS - Módulo de Gestión de Riesgos (Equipo 5)
 
-![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-validación%20pendiente-yellow?style=for-the-badge)
 ![Equipo](https://img.shields.io/badge/Equipo-5-blue?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/Backend-3004-green?style=for-the-badge)
 ![Frontend](https://img.shields.io/badge/Frontend-5177-purple?style=for-the-badge)
